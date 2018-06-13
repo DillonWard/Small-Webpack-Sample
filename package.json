@@ -1,0 +1,22 @@
+{
+  "name": "webpack-sample",
+  "version": "1.0.0",
+  "description": "\"# Small-Webpack-Sample\"  git init git add README.md git commit -m \"first commit\" git remote add origin https://github.com/DillonWard/Small-Webpack-Sample.git git push -u origin master\r \"# Small-Webpack-Sample\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DillonWard/Small-Webpack-Sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DillonWard/Small-Webpack-Sample/issues"
+  },
+  "homepage": "https://github.com/DillonWard/Small-Webpack-Sample#readme",
+  "dependencies": {
+    "webpack": "^4.12.0"
+  }
+}
